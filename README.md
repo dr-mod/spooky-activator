@@ -3,7 +3,7 @@ A little platform that enables you to light up whatever object is placed on it.
 Brightness of the platform can be controlled via USB, conversely, it can be used standalone with the LED pulsating.
 
 ### 3d model
-You can download the 3d models [here](https://www.thingiverse.com/thing:5006784).
+You can download the 3d models [here](https://www.printables.com/model/237721-spooky-activator).
 
 ### Wiring
 ![](docs/wiring.png)
